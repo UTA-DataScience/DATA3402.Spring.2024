@@ -1,0 +1,180 @@
+"No attempt: -5,wrong:-1...-5","No attempt: -5, wrong: -2","No attempt: -10, wrong: -1..-7","No attempt: -10, wrong: -1 ..-8. no bonus","No attempt: -25, wrong: -1..-20","No attempt: -14, wrong: -1..-12, bonus 0..14","No attempt: -15, wrong: -1..-12, bonus 0..5","No attempt: -14, wrong: -1..-12",
+Lab 1,Lab 2,Lab 3,Lab 4,Exam 1,Lab 5,,Lab 7,Exam 2
+,0,0,,0,0,0,0,0
+no solution,no solution,-did not submit the Lab,,did not submit the exam,,,,
+100,96,46,,68-sent,,,,
+Completed the lab,"ex4- attempted,wrong solution -2
+ex8 -wrong solution(sequence not correct) -2","ex1 - Nameerror get_size() is not defined(-2)
+ex2 - returns -1 for all conditions, does not test for all conditions.(-3)
+ex3 - does not construct board(-5)
+ex4 - does not construct the board (-5)
+ex5 - does not construct the board (-5)
+ex6 - does not construct the board (-5)
+ex7 - no construction of board (-5)
+ex8-not attempted
+ex9-not attempted
+ex10 - does not create board for 5*5 (-4)
+ex11 - not attempted ",,"q1c - does not return the list instead returns the range(-5)
+q2 - output is wrong, output should had been [4, 5, 60], 
+[8, 10, 120],[12, 15, 180] (-5)
+q3a - should be in a list format (-2)
+q3b - Just generated the histogram.output does not have x90 value.(-10)
+q4a - should return the highest card instead of True for flush(), Straight(), straight_flush()(-6)
+q4b - three_of_a_kind(), pair() returns None even for the condition being True(-4)",,,,
+100,100,90,,88-sent,,,,
+Completed the lab,"Completed the whole lab
+","ex10 - not attempted (-10)
+ex11 - not attempted","ex8-not attempted
+ex9- not attempted","note - try to use better variable names
+q3b - does not calculate x90 (-8)
+q4a - flush() is working perfectly,straight() & straight_flush() does not work with condition True (-4)",,,,
+93,100,24,,96-sent,,,,
+"ex4 - attempted, wrong answer(-2)
+ex5c - not attempted(-5)",Completed the whole lab,"ex2 - returns 1 for winner_2, returns 1 for no winner instead of -1(-2)
+ex3 -  does not construct board for other cases (-4)
+ex4-not attempted
+ex5- not attempted
+ex6-not attempted
+ex7-not attempted
+ex8-not attempted
+ex9-not attempted
+ex10-not attempted
+ex11 - not attempted",,"note- try not to use names which are built-in functions in python(eg- min)
+q3b- does not calculate x90, made integral funciton but never ran it. (-4)",,,,
+0,81,0,0,43-sent,,,,
+no solution,"ex2-attempted(empty list) -2
+ex3 - no solution -5
+ex4 -not in proper format(list) -2
+ex7 - no solution -5
+ex10 - no solution -5",- did not submit the lab,-did not submit the lab,"q1b - returns the index 0 instead of 23 as mentioned in the question (-3)
+q2 - no attempt (-25)
+q3a,q3b - no attempt (-25)
+q4a - straight(), straight_flush() should return None instead of False,return highest card instead of True for straight() (-4)",,,,
+95,100,105,,96-sent,,,,
+-ex5c missing(-5)                  ,Completed the whole lab,"ex5 - does not draw board (-5)
+ex11 - +10",,"q4b - Implementation correct , gives NameError 'h' not defined while running the code
+(-4)",,,,
+100,98,87,,89-sent,,,,
+completed the lab,"ex10 - attempted, solution wrong(nameerror-guess not defined) -2","ex2 - flips for condition 'also_no_winner' returns 2 instead of 0(-2)
+ex3 - does not construct board as given in ques (-4)
+ex4 - creates 3 * 2 board for ""also_no_winner"" instead of 3*3 (-3)
+ex5 - does not create row C for ""also_no_winner"" (-2)
+ex8 - Nameerror ""move_good"" (-2)
+ex11 - not attempted",,"q3a - did not print the result(-2)
+q3b- solution incomplete. Output close but not correct. (-5)
+q4a - Gives the second highest value on straight() (-2)
+q4b - Implementation does not seem right, wrong output for three_of_a_kind,pair() (-2)",,,,
+95,98,50,,52,,,,
+-ex5c missing(-5),"ex8 - wrong solution, sequence should be 1,1,.. -2
+","ex1 - works for only 1 condition, does not return the expected output(-6)
+ex4- does not construct the board fully (-3)
+ex5 - Typeerror (-5)
+ex7-not attempted
+ex8-not attempted
+ex9-not attempted
+ex10-not attempted
+ex11 - not attempted",,"q1a,q1b,q1c - incomplete function. Does not have any function in all three parts of question. (-25)
+q2 - wrong logic, solution (-8)
+q3b- solution incomplete, does not calculate the value of x90 (-6)
+q4a - flush() returns letter instead of highest card, straight() returns True instead of highest card, straight_flush() returns letter instead of highest card (-5)
+q4b - does not work for pair(), returns None for True condition (-4)",,,,
+95,96,98,,100-sent,,,,
+-ex5c missing(-5),"ex8 - should start from 1 as given in the question -2
+ex10 - generates an invalid response on entering a number -2","ex5 - does not return True or False(-2)
+ex11 - not attempted",,excellent,,,,
+0,78,37,,67,,,,
+no solution,"ex1 - 1 function(odd) missing -2
+ex2 - no solution -5
+ex3 - wrong solution -2
+ex4 - should be a list -2
+ex5 - return a list -2
+ex7 - no solution -5
+ex8 - attempted, sequence missing -2
+ex9 - nameerror(string not defined) -2","ex1 - Nameerror ""game_board"" not defined (-2)
+ex2 - does not work for most of the test cases (-4)
+ex3 - does not construct board correctly(-3)
+ex4-not attempted
+ex5-not attempted
+ex6-not attempted
+ex7-not attempted
+ex8-not attempted
+ex9 - does not use the notation A2, C1,etc, or constructs the board(-4)",,"-Late submission -10
+q1b - Nameerror  (-3)
+q3b - NameError: name 'data' is not defined, does not calculate the value of x90 (-8)
+q4a - flush() gives error instead of returning the highest value card, straight() returns False instead of None, straight_flush() gives nameerror ""stright"" not defined(-6)
+q4b - Nameerror in both the functions pair and three_of_kind, values not defined correctly, variables not initiated properly(-6)",,,,
+0,76,,,0,,,,
+no solution,"ex1 - syntax error -2
+ex3 - wrong solution -2
+ex4 - wrong solution -2
+ex5 - wrong solution -2
+ex6 - syntax error -2
+ex7 - no solution -5
+ex8 - attempted no solution -2
+ex9 - Typerror -2
+ex10 - no solution -5
+",,,-did not submit the exam,,,,
+95,89,0,0,66-sent,,,,
+ex 5c missing(-5),"ex7 - condition not working on rock and scissors -2
+ex8-  sequence should have started from 1 as given in the question. -2
+ex9 - no solution -5
+ex10 - wrong solution, user should have been given the input if number is higher or lower -2",-did not submit the Lab,-did not submit the Lab,"q2- should not be using numpy(built in functions) -5
+q3b- no value of x90, made q6 function but never used. (-4)
+q4a - not attempted(-12.5)
+q4b - not attempted(-12.5)",,,,
+98,94,35,,96-sent,,,,
+ex 4 attempted but not correct(-2),"ex3 - wrong solution(attempted) -2
+ex4 - wrong solution(not generating correct list) -2
+ex7 - NameError: name 'py1' is not defined -2","ex2 - does not return  -1, 0, 1, or 2 , returns None (-5)
+ex4 - Syntax Error (-2)
+ex4 - NameError: name 'insertLetter' is not defined(-2)
+ex5 - Incomplete function (-6)
+ex6- not attempted
+ex7- not attempted
+ex8- not attempted
+ex9- not attempted
+ex10- not attempted
+ex11 - not attempted",,"q2- Right logic but not commented well, comment out the lines properly (-2)
+q4b - three_of_kind gives None for True condition (-2)",,,,
+93,77,23,,64-sent,,,,
+"ex3 attempted no solution, 5c missing(-7)","ex3 - should have taken list of numbers as in q2  -2
+ex4 - attempt, wrong solution(should include 1 as divisor) -2
+ex6 - should have given True for the palindrome string -2
+ex7 - no solution -5
+ex8 - sequence should have started from 1 as given in the question -2
+ex9 - no solution -5
+ex10 - no solution -5
+","ex2 - returns 1 instead of 0 for ""no_winner"" (-2)
+ex3 - gives Index Error, function incomplete (-5)
+ex4-not attempted
+ex5-not attempted
+ex6-not attempted
+ex7-not attempted
+ex8-not attempted
+ex9- not attempted
+ex10-not attempted
+ex11 - not attempted","ex7 -not attempted
+ex8- not attempted
+ex9- not attempted","q1a - You had to return just the string ""Alabama"" and not the whole list (-2)
+q3b - not attempted(-12.5)
+q4a,q4b - only flush function attempted(-7)
+q4b - not attempted (-12.5)",,,,
+100,96,88,,64-sent,,,,
+completed,"ex8 - Sequence should have started from 1 as given in the question -2
+ex10 - invalid response -2
+ex8,ex5,ex7,ex10 - solution exactly same as Will Anderson(git commit 13days ago)","ex5 - does not return True or False(-2)
+ex9 - game not implemented (-5)
+ex10 - game not implemented, only board created (-5)
+solution matches with another student Will Anderson",,"q1a - return just the string, not in list format(-2)
+q1b - throwing valueerror (-3)
+q2 - its  two 1-dimensional list multiplication and what you did is multiplication of 2d matrix (-15)
+q3b- not correct, gives NameError(-6)
+q4a - string in hand is not working for any of the functions (-6)
+q4b -  No output, giving Typeerror(-4)",,,,
+95,94,60,,98-sent,,,,
+ex 5c missing(-5),"ex3 - incomplete function -3
+ex10 - incomplete function -3","ex7- not attempted
+ex8- not attempted
+ex9- not attempted
+ex10- not attempted
+ex11 - not attempted",,q4b - pair() is not working properly for few test cases. (-2),,,,
